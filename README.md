@@ -1,13 +1,25 @@
 # 我的leetcode刷题之路
 
-* 141.环形链表 
+* 记录我的力扣刷题之路，主要解题的编程语言是JavaScript和java，有些题目会写多解，代码均在力扣跑通。
 
-- [x]   js解法
 
-- [ ]   java解法
 
-* 142.环形链表II
+| 力扣题号/题名  | 解题语言         | 力扣地址                                              |
+| :------------- | ---------------- | ----------------------------------------------------- |
+| 141/环形链表   | java、JavaScript | https://leetcode-cn.com/problems/linked-list-cycle    |
+| 141/环形链表II | java、JavaScript | https://leetcode-cn.com/problems/linked-list-cycle-ii |
+|                |                  |                                                       |
 
-- [x]   js解法
 
-- [ ]   java解法
+
+
+
+
+
+
+
+来源：力扣（LeetCode）
+
+链接：https://leetcode-cn.com
+
+著作权归领扣网络所有。商业转载请联系官方授权，非商业转载请注明出处。
