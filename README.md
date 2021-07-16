@@ -7,7 +7,7 @@
 | 力扣题号/题名  | 解题语言         | 力扣地址                                              |
 | :------------- | ---------------- | ----------------------------------------------------- |
 | 141/环形链表   | java、JavaScript | https://leetcode-cn.com/problems/linked-list-cycle    |
-| 141/环形链表II | java、JavaScript | https://leetcode-cn.com/problems/linked-list-cycle-ii |
+| 142/环形链表II | java、JavaScript | https://leetcode-cn.com/problems/linked-list-cycle-ii |
 |                |                  |                                                       |
 
 
