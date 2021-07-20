@@ -4,13 +4,11 @@
 
 
 
-| 力扣题号/题名  | 解题语言         | 力扣地址                                              |
-| :------------- | ---------------- | ----------------------------------------------------- |
-| 141/环形链表   | java、JavaScript | https://leetcode-cn.com/problems/linked-list-cycle    |
-| 142/环形链表II | java、JavaScript | https://leetcode-cn.com/problems/linked-list-cycle-ii |
-|                |                  |                                                       |
-
-
+| 力扣题号/题名  |    解题语言/解题思路    | 力扣地址                                              |
+| :------------- | :---------------------: | ----------------------------------------------------- |
+| 141/环形链表   | java、js/快慢指针、哈希 | https://leetcode-cn.com/problems/linked-list-cycle    |
+| 142/环形链表II | java、js/快慢指针、哈希 | https://leetcode-cn.com/problems/linked-list-cycle-ii |
+| 202/快乐数     |    java、js/快慢指针    | https://leetcode-cn.com/problems/happy-number         |
 
 
 
