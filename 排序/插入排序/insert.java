@@ -20,3 +20,5 @@ class ChaPai {
         System.out.println("插入排序: " + Arrays.toString(arr));
     }
 }
+
+//方法2：c语言的写法
